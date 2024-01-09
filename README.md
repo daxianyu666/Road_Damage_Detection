@@ -5,4 +5,4 @@
 预测：python detect.py --source filename.jpg --weights ./runs/train/exp/weights/best.pt
 
 结果保存在
-\runs\detect
+\runs\detect  预测时将jpg图片或者MP4文件放在detect.py同文件夹下
